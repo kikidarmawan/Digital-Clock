@@ -71,3 +71,7 @@ body {
 .wrapper span:last-child {
     filter: blur(20px);
 }
+
+.light-mode {
+    background-color: #fff;
+}
